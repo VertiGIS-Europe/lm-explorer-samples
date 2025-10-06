@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "SonarSource.sonarlint-vscode",
+        "esbenp.prettier-vscode"
+    ]
+}

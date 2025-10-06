@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+    <Resource version="3.0" id="Katasterauskunft" type="MobileWerkzeuge/Demo" name="Katasterauskunft" typename="Mobile Werkzeuge/Demo" prio="0" properties="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;xml&gt;&lt;Tooltype tooltype=&quot;DialogueTool&quot;/&gt;&lt;Javascripturi javascripturi=&quot;aedsicad/demo/widget/KatasterauskunftWidget&quot;/&gt;&lt;Configfilepath configfilepath=&quot;&quot;/&gt;&lt;Iconsymbol iconsymbol=&quot;vglm-parcels&quot;/&gt;&lt;/xml&gt;"></Resource>
+</Root>
