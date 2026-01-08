@@ -88,9 +88,9 @@ cd <repository>
 
 ```text
 /Beispielwerkzeug
-├── .vscode/         # Vue.js Frontend mit PrimeVue
-├── install/           # Dokumentation
-├── src/           # Dokumentation
+├── .vscode/
+├── install/
+├── src/          # Vue.js Frontend mit PrimeVue
 └── CODE_OF_CONDUCT.md
 └── LICENCE.md
 └── README.md
